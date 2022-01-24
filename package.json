@@ -1,5 +1,5 @@
 {
-  "name": "text-editor",
+  "name": "Electron-React-Boilerplate",
   "version": "0.1.0",
   "main": "public/electron.js",
   "private": true,
